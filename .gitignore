@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Secrets - never commit these
+.env
+.env.*
+!.env.example
+
+# Build output
+client/dist/
+
+# Logs and OS junk
+*.log
+.DS_Store
+Thumbs.db
