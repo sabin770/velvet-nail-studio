@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://velvet-nail-api.onrender.com/api/:path*"
+      "destination": "https://velvet-nail-studio.onrender.com/api/:path*"
     },
     {
       "source": "/(.*)",
